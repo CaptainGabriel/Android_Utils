@@ -1,2 +1,3 @@
 # Android_Utils
-Utility classes
+
+Utility classes that I often use in android apps.
